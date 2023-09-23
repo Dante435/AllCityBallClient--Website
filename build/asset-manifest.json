@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30cf402f.css",
+    "main.js": "/static/js/main.b15283b2.js",
+    "static/media/vid_3.MOV": "/static/media/vid_3.348dd5bcf75474f3114a.MOV",
+    "static/media/vid_2.MOV": "/static/media/vid_2.24a5b7de6108dce125b3.MOV",
+    "static/media/vid_1.MOV": "/static/media/vid_1.6161f330fb7dda3cfd6a.MOV",
+    "static/media/bg.png": "/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/MainMenu.png": "/static/media/MainMenu.d78c87132f30b70a3a54.png",
+    "static/media/Coach1.png": "/static/media/Coach1.7971c1b3ba8742217892.png",
+    "static/media/findus.png": "/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/gallery04.png": "/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/huddle_coaching-1__black.jpg": "/static/media/huddle_coaching-1__black.b92031e2860d4d568399.jpg",
+    "static/media/knife.png": "/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/W1.JPG": "/static/media/W1.04b9c45233d746d5d1ba.JPG",
+    "static/media/overlaybg.png": "/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/signCoachDouglas.png": "/static/media/signCoachDouglas.82ca10d7017b359d70fd.png",
+    "static/media/logo-white-BTA.png": "/static/media/logo-white-BTA.1c7c0fd8db9e65947f03.png",
+    "static/media/log&emblem-black.png": "/static/media/log&emblem-black.b8b679747e445743e8e1.png",
+    "static/media/log&emblem-white.png": "/static/media/log&emblem-white.22ecf533f310f0a7ec93.png",
+    "static/media/G.png": "/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/index.html",
+    "main.30cf402f.css.map": "/static/css/main.30cf402f.css.map",
+    "main.b15283b2.js.map": "/static/js/main.b15283b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30cf402f.css",
+    "static/js/main.b15283b2.js"
+  ]
+}
