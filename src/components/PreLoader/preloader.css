@@ -1,0 +1,66 @@
+
+
+.preloader{
+    height: 100vh;
+    width: 100%;
+    background:#000;
+    color: aliceblue;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+
+}
+
+.preloader .img-animation img{
+  display: flex;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  overflow: hidden;
+
+  
+  color: #fff;
+
+
+}
+
+
+
+.scale-in-center {
+	-webkit-animation: scale-in-center 2.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) ;
+	        animation: scale-in-center 2.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) ;
+}
+
+
+
+@-webkit-keyframes scale-in-center {
+    0% {
+      -webkit-transform: scale(0);
+              transform: scale(0);
+      opacity: 1;
+    }
+    100% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+      opacity: 1;
+    }
+  }
+  @keyframes scale-in-center {
+    0% {
+      -webkit-transform: scale(0);
+              transform: scale(0);
+      opacity: 1;
+    }
+    100% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+      opacity: 1;
+    }
+  }
+  
